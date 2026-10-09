@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm John
 
-<!--
-**JohnBardwellDev/JohnBardwellDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer in Wellington, with a background in screen arts and hospitality. I came to code as another way to tell stories and make things people actually use, and I'm most drawn to UI and design.
 
-Here are some ideas to get you started:
+I recently finished Dev Academy Aotearoa's software development programme, where I built full-stack apps in small agile teams.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **Momodex** – a New Zealand species capture and battle app (team project). I built the quiz results API and set up Vitest testing. [Live](https://momodex.onrender.com/)
+- **Jimmagochi** – a simple virtual pet app (team project). I worked on the CSS and UI.
+
+## Tech
+JavaScript · TypeScript · React · Node · Express · Knex · SQL · Vitest · Git · HTML/CSS
+
+## Outside code
+Writing, filmmaking and 3D art in Blender.
+
+📫 johnbardwellofficial@gmail.com
